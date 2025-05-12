@@ -1,5 +1,5 @@
 {
-  "name": "lodash_ts",
+  "name": "@a169kai/lodash-ts",
   "version": "1.0.0",
   "description": "Lodash modular utilities in TypeScript.",
   "main": "dist/index.cjs",
